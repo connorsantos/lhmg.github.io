@@ -1,0 +1,22 @@
+.topnav{
+  background-color: #dadfe8;
+  border-radius: 2px;
+}
+
+.topfooter{
+  background-color: #5b797c;
+  height: 40%;
+}
+
+.botfooter{
+  background-color: #3f5051;
+  height: 2%;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.br{
+  border-right: solid;
+}
